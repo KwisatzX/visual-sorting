@@ -1,0 +1,25 @@
+{
+id: reload
+text: Reload buttons
+width: 105
+height: 25
+x: 4
+y: 859
+borderColor: {
+	r: 0.5
+	g: 0.2
+	a: 1
+}
+bgColor: {
+	r: 0.7
+	g: 0.4
+	b: 0.2
+	a: 1
+}
+textColor: {
+	r: 0.4
+	g: 0.3
+	b: 0.2
+	a: 1
+}
+}
