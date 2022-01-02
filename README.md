@@ -2,4 +2,5 @@
 An old for-fun libgdx project about showcasing sorting in an audiovisual way.
 
 <br /><br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ThSxZI1UqIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+View the program in action here:
+<a href="https://www.youtube.com/watch?v=ThSxZI1UqIM"><img source="http://i3.ytimg.com/vi/ThSxZI1UqIM/hqdefault.jpg" /></a>
